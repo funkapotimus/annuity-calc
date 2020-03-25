@@ -1,6 +1,4 @@
-# annuity-calc
-
-Annuity Calculator by Juan Trejo
+# annuity-calc  by Juan Trejo
 
 This app relies on the lifecontingencies package avaialable here:
 
