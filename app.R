@@ -13,7 +13,7 @@
 library(shiny)
 library(openintro)
 library(lifecontingencies)
-
+ 
 
 ui <- pageWithSidebar(
 
